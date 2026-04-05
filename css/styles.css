@@ -1,0 +1,45 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+button {
+  margin: 10px;
+
+}
+
+.input1 {
+  width: 28%;
+  height: 50px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  background-color:#F0F0F0
+}
+
+.btns {
+  height: 50px;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+.result {
+  width: 50%;
+  height: 50px;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+.sqBtn {
+  height: 50px;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+.cubeBtn{
+  height: 50px;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
