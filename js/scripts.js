@@ -1,4 +1,6 @@
 
+// custom js
+
 userInput = () => {
     let a = Number(document.getElementById("num1").value);
     let b = Number(document.getElementById("num2").value);
